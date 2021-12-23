@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **web development and mobile development with javascript**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
