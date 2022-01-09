@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning and artificial intelligence**
 
-- 👨‍💻 All of my projects are available at [https://portafolio-wine.vercel.app/](https://alansolano.me)
+- 👨‍💻 All of my projects are available at [https://alansolano.me](https://alansolano.me)
 
 - 💬 Ask me about **web development and mobile development with javascript**
 
