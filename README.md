@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **personal projects and entrepreneurship**
 
-- 🌱 I’m currently learning **machine learning and artificial intelligence**
-
 - 👨‍💻 All of my projects are available at [https://alansolano.me](https://alansolano.me)
 
 - 💬 Ask me about **web development and mobile development with javascript**
